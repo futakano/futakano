@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Futa
 
-I'm studying planetary physics, including solar system evolution🌠, ocean circulation🌊, climate dynamics🌦️, and earthquakes🌋.
+I'm studying planetary physics at the University of Tokyo (Faculty of Science), including solar system evolution 🌠, ocean circulation 🌊, climate dynamics 🌦️, and earthquakes 🌋.
 
-I use Python and Fortran to analyze observational data and perform numerical calculations.
+I use Python and Fortran to analyze observational data and perform numerical simulations.
 
 <!--
 **futakano/futakano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
